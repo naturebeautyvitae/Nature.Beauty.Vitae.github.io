@@ -1,4 +1,4 @@
-name: Nature Beauty Vitae
+name: my site
 remote_thems: pages-themes/minimal@0.2.0
 plagins: - jekyll-remote-theme
 title: [NatureBeauty Vitae]
