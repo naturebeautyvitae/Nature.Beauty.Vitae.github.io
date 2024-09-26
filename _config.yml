@@ -1,5 +1,5 @@
 name: My Site
-remote_thems: pages-themes/minimal@0.2.0
+remote_themes: pages-themes/minimal@0.2.0
 plagins: - jekyll-remote-theme
 title: [NatureBeauty Vitae]
 description: 
