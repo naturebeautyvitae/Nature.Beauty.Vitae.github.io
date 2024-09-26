@@ -4,7 +4,7 @@ function header () {
   with(document) {
        write("<div id='headerMain'>");
             write("<a class='logo' href='./index.html'>");
-              write("<span class='nav-title'>AIAI</span>");
+              write("<span class='nav-title'>Nature Beauty Vitae</span>");
             write("</a>");
            write("<div class='menuMain'>");
                write("<ul class='menu'>");
