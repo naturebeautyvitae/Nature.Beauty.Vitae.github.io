@@ -1,2 +1,3 @@
 name: My Site
-theme: minimal
+remote_thems: pages-themes/minimal@0.2.0
+plagins: - jekyll-remote-theme
