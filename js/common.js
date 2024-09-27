@@ -20,11 +20,11 @@ function header () {
            write("</div>");
         write("</div>");
   }
-//  imgsearch();
+  imgsearch();
 }
 
 
-/*
+
 function footerContainer(){
       with(document){
         write("<div id='footerMain'>");
@@ -70,8 +70,8 @@ function footerContainer(){
                   write("</a>");
           write("</div>");
 */
-/*
+
         write("</div>");
           }
   }
-*/
+
