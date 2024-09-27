@@ -12,9 +12,9 @@ function header () {
                     write("</li>")
                     write("<li><a href='generalinformation.html'>General Information</a>");
                     write("</li>")
-                    write("<li><a href='aboutme.html'>About Me</a>");
-                    write("</li>")
                     write("<li><a href='contact.html'>Contact Us</a>");
+                    write("</li>")
+                    write("<li><a href='aboutme.html'>About Me</a>");
                     write("</li>")
                write("</ul>");
            write("</div>");
