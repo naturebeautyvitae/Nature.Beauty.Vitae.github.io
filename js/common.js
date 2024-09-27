@@ -20,7 +20,7 @@ function header () {
            write("</div>");
         write("</div>");
   }
-//  imgsearch();
+  imgsearch();
 }
 
 
