@@ -4,13 +4,13 @@ function header () {
   with(document) {
        write("<div id='headerMain'>");
             write("<a class='logo' href='./index.html'>");
-              write("<span class='nav-title'>AIAI</span>");
+              write("<span class='nav-title'>Nature</span>");
             write("</a>");
            write("<div class='menuMain'>");
                write("<ul class='menu'>");
                     write("<li><a href='index.html'>Home</a>");
                     write("</li>")
-                    write("<li><a href='generalinfromation.html'>General Informations</a>");
+                    write("<li><a href='generalinfromation.html'>General Information</a>");
                     write("</li>")
                     write("<li><a href='aboutme.html'>About Me</a>");
                     write("</li>")
@@ -20,11 +20,11 @@ function header () {
            write("</div>");
         write("</div>");
   }
-  imgsearch();
+//  imgsearch();
 }
 
 
-
+/*
 function footerContainer(){
       with(document){
         write("<div id='footerMain'>");
@@ -69,6 +69,7 @@ function footerContainer(){
                       write("University of Goettingen");
                   write("</a>");
           write("</div>");
+*/
 */
         write("</div>");
           }
