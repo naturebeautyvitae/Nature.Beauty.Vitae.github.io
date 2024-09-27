@@ -19,17 +19,6 @@ function header () {
                write("</ul>");
            write("</div>");
         write("</div>");
-      write("<div id='project-header'>");
-            write("<image class='project-header-image' src='./assets/images/AIAI_prog.png'/>");
-                write("<div class='main-title'>Agency and Intentions in AI</div>");
-                write("<div class='subheader-text-light'>University of Göttingen, May 16-17, 2024</div>");
-                  write("<div>");
-                      write("<blockquote><p>How do you connect with a single piece of information?</p><p>Date ‘em</p>");
-                          write("<footer><cite>Kyle Thompson</cite></footer>");
-                      write("</blockquote>");
-                write("</div>");
-            write("</div>");
-      write("</div>");
   }
   imgsearch();
 }
