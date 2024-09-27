@@ -27,7 +27,7 @@ function header () {
 function footerContainer(){
       with(document){
         write("<div id='footerMain'>");
-            write("<div>");
+/*            write("<div>");
                     write("<a target='_blank' href='https://uni-goettingen.de/'>");
                         write("<img src='./assets/images/ugoettingen.png' style='width:120px'>");
                     write("</a>");
@@ -57,7 +57,8 @@ function footerContainer(){
                       write("The Van Riemsdijk Foundation");
                   write("</a>");
           write("</div>");
+*/
         write("</div>");
-          }
+      }
   }
 
