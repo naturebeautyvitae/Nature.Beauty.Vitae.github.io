@@ -10,7 +10,7 @@ function header () {
                write("<ul class='menu'>");
                     write("<li><a href='index.html'>Home</a>");
                     write("</li>")
-                    write("<li><a href='generalinfromation.html'>General Information</a>");
+                    write("<li><a href='generalinformation.html'>General Information</a>");
                     write("</li>")
                     write("<li><a href='aboutme.html'>About Me</a>");
                     write("</li>")
