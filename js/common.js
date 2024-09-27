@@ -1,5 +1,4 @@
 /* https://www.w3web.net/how-to-add-header-and-footer-in-javascript/ */
-/* https://www.w3web.net/how-to-add-header-and-footer-in-javascript/ */
 
 function header () {
   with(document) {
@@ -17,9 +16,6 @@ function header () {
                     write("</li>")
                     write("<li><a href='contact.html'>Contact Us</a>");
                     write("</li>")
-<!--                    write("<li><a href='mailto:julie.goncharov@uni-goettingen.de'>Contact us</a>");
-                    write("</li>")
--->
                write("</ul>");
            write("</div>");
         write("</div>");
