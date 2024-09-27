@@ -70,7 +70,8 @@ function footerContainer(){
                   write("</a>");
           write("</div>");
 */
-*/
+/*
         write("</div>");
           }
   }
+*/
