@@ -12,7 +12,7 @@ function header () {
                     write("</li>")
                     write("<li><a href='generalinformation.html'>General Information</a>");
                     write("<li>")
-                    write("<li><a href='program.hdml'>Program</a>");
+                    write("<li><a href='program.html'>Program</a>");
                     write("</li>")
                     write("<li><a href='contact.html'>Contact Us</a>");
                     write("</li>")
