@@ -5,7 +5,7 @@ function header () {
        write("<div id='headerMain'>");
 /*            write("<a class='logo' href='./index.html'>"); */
               write("<span class='nav-title'>Nature Beauty Vitae</span>");
-/*            write("</a>"); */
+           write("</a>"); 
            write("<div class='menuMain'>");
                write("<ul class='menu'>");
                     write("<li><a href='index.html'>Home</a>");
