@@ -31,34 +31,34 @@ function footerContainer(){
       with(document){
         write("<div id='footerMain'>");
            write("<div>");
-                    write("<a target='_blank' href='https://uni-goettingen.de/'>");
+                  /*  write("<a target='_blank' href='https://uni-goettingen.de/'>");
                         write("<img src='./assets/images/ugoettingen.png' style='width:120px'>");
-                    write("</a>");
+                    write("</a>"); */
             write("</div>");
             write("<div class='project-card-text-container'>");
-                    write("<a class='button' target='_blank' href='https://uni-goettingen.de/'>");
-                        write("University of Göttingen");
-                    write("</a>");
+                  /*  write("<a class='button' target='_blank' href='https://uni-goettingen.de/'>");
+                        write("University of Göttingen"); 
+                    write("</a>"); */
             write("</div>");
           write("<div>");
-                  write("<a target='_blank' href='https://www.dfg.de/en'>");
+               /*   write("<a target='_blank' href='https://www.dfg.de/en'>");
                       write("<img src='./assets/images/dfg.pnh.png' style='width:100px'>");
-                  write("</a>");
+                  write("</a>"); */
           write("</div>");
           write("<div class='project-card-text-container'>");
-                  write("<a class='button' target='_blank' href='https://www.dfg.de/en'>");
+              /*    write("<a class='button' target='_blank' href='https://www.dfg.de/en'>");
                       write("Deutsche Forschungsgemeinschaft");
-                  write("</a>");
+                  write("</a>"); */
           write("</div>");
           write("<div>");
-                  write("<a target='_blank' href='https://vanriemsdijkfoundation.org/'>");
+             /*     write("<a target='_blank' href='https://vanriemsdijkfoundation.org/'>");
                       write("<img src='./assets/images/VRF.png' style='width:120px'>");
-                  write("</a>");
+                  write("</a>"); */
           write("</div>");
           write("<div class='project-card-text-container'>");
-                  write("<a class='button' target='_blank' href='https://vanriemsdijkfoundation.org/'>");
+             /*     write("<a class='button' target='_blank' href='https://vanriemsdijkfoundation.org/'>");
                       write("The Van Riemsdijk Foundation");
-                  write("</a>");
+                  write("</a>"); */
           write("</div>");
 
         write("</div>");
