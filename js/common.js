@@ -14,11 +14,12 @@ function header () {
                     write("<li>")
                     write("<li><a href='program.html'>Program</a>");
                     write("</li>")
-                    write("<li><a href='contact.html'>Contact Us</a>");
-                    write("</li>")
                     write("<li><a href='aboutme.html'>About Me</a>");
                     write("</li>")
-               write("</ul>");
+                    write("<li><a href='contact.html'>Contact Us</a>");
+                    write("</li>")
+                    
+              write("</ul>");
            write("</div>");
         write("</div>");
   }
