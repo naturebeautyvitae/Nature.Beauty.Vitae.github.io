@@ -32,7 +32,7 @@ function footerContainer(){
         write("<div id='footerMain'>");
            write("<div>");
                   write("<a target='_blank' href='https://www.instagram.com/naturebeautyvitae/'>");
-                        write("<img src='./assets/images/instagram.svg' style='width:120px'>");
+                        write("<img src='./assets/icons/instagram.svg' style='width:120px'>");
                     write("</a>"); 
             write("</div>");
             write("<div class='project-card-text-container'>");
