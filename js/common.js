@@ -31,9 +31,9 @@ function footerContainer(){
       with(document){
         write("<div id='footerMain'>");
            write("<div>");
-                  /*  write("<a target='_blank' href='https://uni-goettingen.de/'>");
-                        write("<img src='./assets/images/ugoettingen.png' style='width:120px'>");
-                    write("</a>"); */
+                  write("<a target='_blank' href='https://www.instagram.com/naturebeautyvitae/'>");
+                        write("<img src='./assets/images/instagram.svg' style='width:120px'>");
+                    write("</a>"); 
             write("</div>");
             write("<div class='project-card-text-container'>");
                   /*  write("<a class='button' target='_blank' href='https://uni-goettingen.de/'>");
